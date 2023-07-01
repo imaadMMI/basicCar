@@ -1,4 +1,4 @@
-# basicCar
+# BasicCar Simulator
 
 As I practice python, I am uploading this very basic program to mark the start of my individual python journey. 
 
